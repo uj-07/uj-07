@@ -1,7 +1,10 @@
 # Hey there 👋:
 I'm Udishi, an AI & ML undergrad from India . <br> 
+
 I try to build stuff that mix creativity + impact. <br> 
+
 My main tech stack is Python, FastAPI, MySQL, opencv, keras, streamlit <br> If an idea excites me, I usually end up building it (or at least trying to 😄).<br> 
+
 I am currently mastering Reinforcement Learning by training AI agents and working on decoding neural data from MEG signals<br>
 
 
