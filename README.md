@@ -1,12 +1,12 @@
-# 💫 About Me:
-I am currently mastering Reinforcement Learning by training AI agents and working on decoding neural data from MEG signals. Open to collaborating on innovative open-source projects, I am specifically interested in advanced TensorFlow optimization and the intersection of Cognitive AI with software architecture. My expertise spans Python, React, and building high-speed Llama-3 agents.<br>I'm deeply fascinated by Space Exploration and AGI—basically anything that pushes the boundaries of human intelligence!.
+# Hey there 👋:
+I'm Udishi, an AI & ML undergrad from India . <br> I try to build stuff that mix creativity + impact. <br> My main tech stack is Python, FastAPI, MySQL, opencv, keras, streamlit <br> If an idea excites me, I usually end up building it (or at least trying to 😄).<br> I am currently mastering Reinforcement Learning by training AI agents and working on decoding neural data from MEG signals<br>If u got ideas and topics to talk feel 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udishi-jairath-809076300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujairath007@gmail.com) 
+## Fun Fact:
+I am an alien from Trappist-1e.<br>I know how to make art.<br>I am in love with the idea of AGI.<br>I am currently learning neuroscience.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+Got a cool thought about tech, space and science? Slide in, I’m curious 👀✨
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
