@@ -1,15 +1,18 @@
-# Hey there 👋:
+# Hey there! 👆
 I'm Udishi, an AI & ML undergrad from India . <br> 
 
 I try to build stuff that mix creativity + impact. <br> 
 
-My main tech stack is Python, FastAPI, MySQL, opencv, keras, streamlit <br> If an idea excites me, I usually end up building it (or at least trying to 😄).<br> 
+My main tech stack is Python, FastAPI, MySQL, opencv, keras, streamlit <br> 
+
+If an idea excites me, I usually end up building it (or at least trying to 😄).<br> 
 
 I am currently mastering Reinforcement Learning by training AI agents and working on decoding neural data from MEG signals<br>
 
 
 ## Fun Fact:
-I am an alien from Trappist-1e.<br>I know how to make art.<br>I am in love with the idea of AGI.<br>I am currently learning neuroscience.
+
+*I am an alien from Trappist-1e.<br>*I know how to make art.<br>*I am in love with the idea of AGI.<br>*I am currently learning neuroscience.
 
 Got a cool thought about tech, space and science? Slide in, I’m curious 👀✨
 
