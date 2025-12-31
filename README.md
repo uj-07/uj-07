@@ -12,10 +12,10 @@ I am currently mastering Reinforcement Learning by training AI agents and workin
 
 ## Fun Fact:
 
--I am an alien from Trappist-1e.<br>
--I know how to make art.<br>
--I am in love with the idea of AGI.<br>
--I am currently learning neuroscience.
+- I am an alien from Trappist-1e.<br>
+- I know how to make art.<br>
+- I am in love with the idea of AGI.<br>
+- I am currently learning neuroscience.
 
 Got a cool thought about tech, space and science? Slide in, I’m curious 👀✨
 
