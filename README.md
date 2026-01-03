@@ -1,4 +1,4 @@
-# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# Hey Earthlings! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 I'm Udishi, an AI & ML undergrad from India . <br> 
 
 I try to build stuff that mix creativity + impact. <br> 
